@@ -38,4 +38,8 @@
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [1948-rearrange-products-table](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
