@@ -41,5 +41,6 @@
 ## Database
 |  |
 | ------- |
+| [0627-swap-salary](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0627-swap-salary) |
 | [1948-rearrange-products-table](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
