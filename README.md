@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -58,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Greedy
+|  |
+| ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
