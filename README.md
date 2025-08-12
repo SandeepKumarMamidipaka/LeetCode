@@ -9,6 +9,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [3396-valid-word](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3396-valid-word) |
+| [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
@@ -17,6 +18,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
