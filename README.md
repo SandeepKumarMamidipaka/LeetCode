@@ -8,6 +8,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3396-valid-word) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
