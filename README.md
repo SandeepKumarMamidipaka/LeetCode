@@ -33,6 +33,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0342-power-of-four) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
@@ -42,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -59,6 +61,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
