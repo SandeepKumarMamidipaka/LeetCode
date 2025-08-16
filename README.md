@@ -17,6 +17,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
@@ -40,6 +42,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
@@ -111,4 +115,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
