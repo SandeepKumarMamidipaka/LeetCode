@@ -62,6 +62,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0342-power-of-four](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -93,6 +94,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
