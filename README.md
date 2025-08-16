@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0075-sort-colors) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
