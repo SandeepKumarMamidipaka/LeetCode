@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
