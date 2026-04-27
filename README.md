@@ -25,6 +25,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1920-build-array-from-permutation](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -82,6 +83,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
