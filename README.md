@@ -28,6 +28,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3668-restore-finishing-order](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3668-restore-finishing-order](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
