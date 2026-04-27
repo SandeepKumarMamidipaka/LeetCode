@@ -13,6 +13,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3110-score-of-a-string](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3110-score-of-a-string) |
 | [3396-valid-word](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3396-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
@@ -92,6 +93,7 @@
 | [1920-build-array-from-permutation](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3498-reverse-degree-of-a-string](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
