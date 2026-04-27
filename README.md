@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1448-maximum-69-number) |
