@@ -25,6 +25,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Prefix Sum
 |  |
@@ -57,6 +58,7 @@
 | [1448-maximum-69-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Enumeration
