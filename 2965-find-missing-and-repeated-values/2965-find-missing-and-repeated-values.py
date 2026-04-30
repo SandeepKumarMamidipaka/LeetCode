@@ -1,29 +1,19 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
-        res=[]
-        dict1={}
-        for i in range(len(grid)):
-            for j in range(len(grid[i])):
-                if grid[i][j] in dict1:
-                    dict1[grid[i][j]]+=1
-                else:
-                    dict1[grid[i][j]]=1
-        c=0
-        # print(dict1)
-        for key,value in dict1.items():
-            c+=value
-            # print(f"{key}={value}")
-            if value==2:
-                res.append(key)
-        # print(c)
-        for i in range(1,c+1):
-            j=0
-            for key in dict1.keys():
-                if key==i:
-                    # print(key)
-                    break
-                else:
-                    j+=1
-            if j==len(dict1):
-                res.append(i)
-        return res
+        a=grid
+        b=[]
+        for i in a:
+            if type(i)==list:
+                b.extend(i)
+            else:
+                b.append(i)
+        c=[]
+        d=[]
+        for i in b:
+            if i in c:
+                d.append(i)
+            else:
+                c.append(i)
+        e=[i for i in range(1,len(b)+1)]
+        d.extend([i for i in e if i not in c])
+        return d
