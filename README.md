@@ -9,6 +9,7 @@
 | [1108-defanging-an-ip-address](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
