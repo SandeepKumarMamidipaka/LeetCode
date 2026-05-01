@@ -36,6 +36,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2965-find-missing-and-repeated-values](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -116,6 +117,7 @@
 | [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0125-valid-palindrome) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Number Theory
 |  |
 | ------- |
