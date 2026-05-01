@@ -38,6 +38,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Prefix Sum
 |  |
@@ -81,6 +82,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Enumeration
