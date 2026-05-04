@@ -26,6 +26,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0217-contains-duplicate) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -117,6 +119,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0217-contains-duplicate) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
