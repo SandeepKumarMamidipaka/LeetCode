@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
