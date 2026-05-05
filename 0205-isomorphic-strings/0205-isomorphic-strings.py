@@ -1,35 +1,19 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        # freq={}
-        # for i in range(len(s)):
-        #     if t[i] in freq.values():
-        #         return False
-        #     if s[i] not in freq.keys():
-        #         freq[s[i]]=t[i]
-        #     else:
-        #         if freq.get(s[i])!=t[i]:
-        #             return False
-        # # print(freq) 
-        # return True
-        c=True
-        b={}
+        freq={}
         for i in range(len(s)):
-            if s[i] not in b:
-                b[s[i]]=t[i]
-            elif b[s[i]] != t[i]:
-                c=False
-                break
-        d={}
-        e=True
-        for i in range(len(s)):
-            if t[i] not in d:
-                d[t[i]]=s[i]
-            elif d[t[i]] != s[i]:
-                e=False
-                break
-        if e==False:
-            return False
-        elif c==False:
-            return False
-        else:
-            return True
+            # if t[i] in freq.values():
+            #     for key,value in freq.items():
+            #         if t[i]==value:
+            #             if s[i]!=key:
+            #                 print(freq)
+            #                 return True
+            if s[i] not in freq.keys() and t[i] not in freq.values():
+                # if t[i] not in freq.values():
+                freq[s[i]]=t[i]
+            else:
+                if freq.get(s[i])!=t[i]:
+                    return False
+        print(freq) 
+        return True
+       
