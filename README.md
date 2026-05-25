@@ -95,6 +95,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
