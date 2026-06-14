@@ -21,6 +21,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3533-snake-in-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3794-reverse-string-prefix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0075-sort-colors](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0125-valid-palindrome) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Number Theory
 |  |
 | ------- |
