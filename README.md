@@ -34,6 +34,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
