@@ -87,6 +87,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0342-power-of-four) |
+| [1323-maximum-69-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1323-maximum-69-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -149,6 +150,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1323-maximum-69-number) |
 | [1448-maximum-69-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Linked List
