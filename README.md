@@ -14,6 +14,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1816-truncate-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -38,6 +39,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1816-truncate-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
