@@ -96,6 +96,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1448-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2169-count-operations-to-obtain-zero](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2169-count-operations-to-obtain-zero](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3498-reverse-degree-of-a-string](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
