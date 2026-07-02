@@ -35,6 +35,7 @@
 | [0238-product-of-array-except-self](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
