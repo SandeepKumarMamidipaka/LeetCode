@@ -43,6 +43,7 @@
 | [1816-truncate-sentence](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1816-truncate-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2032-two-out-of-three](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2032-two-out-of-three) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -70,6 +71,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2032-two-out-of-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -79,6 +81,7 @@
 | [0342-power-of-four](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2032-two-out-of-three) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
