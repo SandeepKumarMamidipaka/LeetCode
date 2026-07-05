@@ -75,6 +75,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/SandeepKumarMamidipaka/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
